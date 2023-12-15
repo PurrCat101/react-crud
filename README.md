@@ -1,4 +1,3 @@
-# React + Vite
 # React CRUD App with Material-UI, React Router, and Axios
 
 A simple React CRUD (Create, Read, Update, Delete) application with Material-UI components, React Router for navigation, and Axios for API calls.
