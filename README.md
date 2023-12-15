@@ -1,6 +1,15 @@
 # React + Vite
+# React CRUD App with Material-UI, React Router, and Axios
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React CRUD (Create, Read, Update, Delete) application with Material-UI components, React Router for navigation, and Axios for API calls.
+Play -> https://dancing-puppy-3f815f.netlify.app/
+
+## Features
+
+- Create, Read, Update, and Delete operations.
+- Material-UI components for a visually appealing UI.
+- React Router for client-side navigation.
+- Axios for API calls.
 
 Currently, two official plugins are available:
 
